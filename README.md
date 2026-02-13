@@ -6,4 +6,4 @@ terraform init
 
 terraform plan
 
-teraform apply --auto-approve
+terraform apply --auto-approve
