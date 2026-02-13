@@ -4,3 +4,5 @@ terraform --version
 
 terraform init
 
+terraform plan
+
